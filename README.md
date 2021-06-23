@@ -7,6 +7,6 @@ Scope of optimization: I guess it can be optimized more using knapsack 0-1 dynam
 
 ## Results obtained so far 
 Total Weights :  3999036 (There are still 900 weights remaining which could add a bit to total fees)<br>
-(According to current algorithm it considers a transaction of weight 2204 further which accounts to total weight of 4,001,240 and Total fees 5,726,087)
-Total Fees: 5724849
+(According to current algorithm it considers a transaction of weight 2204 further which accounts to total weight of 4,001,240 and Total fees 5,726,087)<br>
+Total Fees: 5724849<br>
 Total Transactions: 2216
