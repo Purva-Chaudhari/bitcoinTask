@@ -3,7 +3,7 @@ The solution is a greedy approach on density (fees/weight)<br>
 A dataframe is created with sorted decreasing density transactions (index 0 is highest density)<br>
 If a child transaction with higher density appears before, it calls (or prints) all its parent transactions before <br>
 <br>
-Scope of optimization: I guess it can be optimized more using knapsack 0-1 dynamic programming in parts (while considering child and parent transactions) (Could not play around more due to time constraints)
+Scope of optimization: I guess it can be optimized more using knapsack 0-1 dynamic programming in parts (while considering inclusion of child and parent transactions) (Could not play around more due to time constraints)
 
 ### Programing information
 Language: Python<br>
